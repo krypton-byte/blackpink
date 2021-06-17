@@ -1,3 +1,7 @@
+# Install Library
+```
+$ pip install blackpink
+```
 # Cara Pakai
 
 ```bash
