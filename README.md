@@ -1,3 +1,4 @@
+[![Downloads](https://pepy.tech/badge/blackpink)](https://pepy.tech/project/blackpink)
 # Install Library
 ```
 $ pip install blackpink
